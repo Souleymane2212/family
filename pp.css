@@ -1,0 +1,290 @@
+*
+{
+	margin: auto;
+	padding: auto;
+	text-decoration: none;
+}
+#bar
+{
+	background-color: navy;
+	position: fixed;
+	width: 100%;
+	padding: 25px 0px;
+}
+#bar .navbar
+{
+	display: flex;
+	justify-content: space-between;
+	width: 1300px;
+	margin: auto;
+}
+#logo
+{
+	color: #fff;
+	font-size: 50px;
+	font-weight: 300;
+	font-family: cursive;
+}
+span
+{
+	background-color: #fff;
+	color: navy;
+	font-size: 55px;
+	font-weight: 300;
+	border: solid 1px;
+	border-radius: 20px 20px 20px;
+	font-family: Verdana;
+}
+#menu
+{
+	padding-top: 0.5px;
+}
+#menu li
+{
+	display: inline-block;
+}
+#menu li a
+{
+	color: navy;
+	font-size: 20px;
+	font-weight: 100;
+	margin-left: 25px;
+	transition: color 2s;
+	background-color: #fff;
+	border: 1px;
+	border-radius: 10px 10px 10px;
+	font-family: cursive;
+}
+#menu li a:hover
+{
+	color: #000;
+}
+/********************************************/
+
+#content
+{
+	width: 1300px;
+	margin: auto;
+	display: flex;
+	padding: auto;
+	height: auto;
+}
+#max-width
+{
+	justify-content: space-between;
+}
+.title .team
+{
+	margin-top: 150px;
+	text-align: center;
+	color: #000;
+}
+h3
+{
+	color: #fff;
+	font-size: 12px;
+	font-weight: 50px;
+	text-align: center;
+	border: 1px solid;
+	background-color: navy;
+}
+#bloc
+{
+	width: 700px;
+	display: inline-flex;
+	justify-content: space-between;
+
+}
+.div-1
+{
+
+	width: 200px;
+	height: 130;
+	padding-top: 60px;
+	margin-top: 30px;
+	border: 1px solid navy;
+	border-radius: 15px 15px 15px;
+	background-color: navy;
+}
+.img-1
+{
+	text-align: center;
+	margin-top: 0.5px;
+	border-radius: 900px 900px 900px;
+	width: 200px;
+}
+h2
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: cursive;
+	color: #fff;
+}
+.text-1
+{
+	text-align: center;
+	justify-content: space-between;
+	color: #fff;
+}
+.div-2
+{
+	width: 200px;
+	height: 130;
+	padding-top: 60px;
+	margin-top: 30px;
+	border: 1px solid navy;
+	border-radius: 15px 15px 15px;
+	background-color: navy; 
+}
+.img-2
+{
+	text-align: center;
+	margin-top: 0.5px;
+	width: 200px;
+	border-radius: 900px 900px 900px;
+}
+#zozor
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: cursive;
+	color: #fff;
+}
+.text-2
+{
+	text-align: center;
+	justify-content: space-between;
+	color: #fff;
+}
+.div-3
+{
+	width: 200px;
+	height: 130;
+	padding-top: 60px;
+	margin-top: 30px;
+	border: 1px solid navy;
+	border-radius: 15px 15px 15px;
+	background-color: navy; 
+}
+.img-3
+{
+	text-align: center;
+	margin-top: 0.5px;
+	width: 200px;
+	border-radius: 900px 900px 900px;
+}
+.titre
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: cursive;
+	color: #fff;
+}
+.text-3
+{
+	text-align: center;
+	justify-content: space-between;
+	color: #fff;
+}
+#lastsect
+{
+	width: 1300px;
+	display: flex;
+	height: 500px;
+}
+#blocsect
+{
+	display: flex;
+	justify-content: space-between;
+	width: 800px;
+	height: 500;
+}
+#get
+{
+	font font-weight: bold;
+	font-family: cursive;
+	color: #000;
+	font-size: 20px;
+}
+#lastp
+{
+	font-family: cursive;
+	margin-left:50px;
+}
+.lastliste
+{
+	margin-left: 50px;
+	font-family: cursive;
+}
+#N1
+{
+	color: navy;
+	font-size: 40px;
+}
+#A2
+{
+		color: navy;
+	    font-size: 40px;
+}
+#M3
+{
+		color: navy;
+	    font-size: 40px;
+}
+.div14 .message
+{
+	color: #000;
+	font-family: cursive;
+	padding-top: 5px;
+	font-size: 20px;
+	margin-left: 200px;
+}
+.maxform
+{
+	margin-left: 200px;
+}
+.mail
+{
+	margin-left: 100px;
+	margin-top: 97px;
+}
+.lasta
+{
+	color: #fff;
+	background-color: navy;
+	transition: color 2s;
+	border: 1px solid;
+	border-radius: 20px 20px 20px;
+	font-size: 20px;
+}
+.lasta:hover
+{
+	color: #000;
+}
+footer
+{
+	display: flex;
+}
+.maxfoot #pied
+{
+	width: 1300px;
+	background-color: navy;
+	height: 30px;
+	text-align: center;
+}
+.lasttext
+{
+	color: #fff;
+	font-size: 10px;
+	padding-top: 12px;
+	font-weight: 100;
+	font-family: cursive;
+}
+strong
+{
+	color: #000;
+}
+
